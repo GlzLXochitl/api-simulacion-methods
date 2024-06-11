@@ -1,4 +1,4 @@
 # api-simulacion-methods
 
-<p><strong>api-example-22030603</strong></p>
+api-example-22030603<br>
 Activities carried out during the Applied Data Structures and Service-Oriented Web Applications courses. 
